@@ -6,7 +6,7 @@
 <h3 align="center">A passionate API DEVELOPER from India,Delhi</h3>
 
 <!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b2f4acc8c80637c4642dc53adbdecf6d?rik=BS1RszVeMkhsvg&riu=http%3a%2f%2fmoneyart.in%2fContent%2fassets%2fimages%2fhome%2fanimation.gif&ehk=xlevssWSC7G0qfoA0vbJILxmN8FnaVfW5%2fOIJ2uiepc%3d&risl=&pid=ImgRaw&r=0****">
 
 # 💫 About Me:
 I am a Python developer learning API and backend development, with a strong interest in building RESTful APIs and backend systems. I enjoy working with Python frameworks and integrating databases to create real-world applications. Currently, I am improving my skills in authentication, API design, and clean coding practices. I like writing efficient, scalable, and well-structured code. My goal is to start my career as a Python backend or API developer and grow as a professional in this field.
