@@ -1,5 +1,5 @@
 <!-- Web Dev Banner -->
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <!-- Your Info. -->
 <h1 align="center">Hi 👋, I'm KUNAL </h1>
