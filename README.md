@@ -3,7 +3,7 @@
 
 <!-- Your Info. -->
 <h1 align="center">Hi 👋, I'm KUNAL </h1>
-<h3 align="center">A passionate API DEVELOPER from India,Delhi</h3>
+<h3 align="center">A passionate Python DEVELOPER from India,Delhi</h3>
 
 <!-- Programmer GIF -->
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b2f4acc8c80637c4642dc53adbdecf6d?rik=BS1RszVeMkhsvg&riu=http%3a%2f%2fmoneyart.in%2fContent%2fassets%2fimages%2fhome%2fanimation.gif&ehk=xlevssWSC7G0qfoA0vbJILxmN8FnaVfW5%2fOIJ2uiepc%3d&risl=&pid=ImgRaw&r=0****">
@@ -44,4 +44,68 @@ I am a Python developer learning API and backend development, with a strong inte
 ---
 [![](https://visitcount.itsvg.in/api?id=x-KUNAL-x&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 Developer Mindset
+
+> **Build it. Test it. Secure it. Improve it.**
+
+I believe great software is built through continuous learning, practical problem-solving, testing, and attention to security.
+
+---
+
+## 🔧 What I Work With
+
+- 🐍 **Python Development**
+- 🚀 **REST API Development**
+- ⚡ **Backend Application Development**
+- 🔐 **Authentication & API Security**
+- 🗄️ **SQL & NoSQL Databases**
+- 🧪 **API Testing & Documentation**
+- 🛡️ **Cybersecurity & Network Security**
+- 🐳 **Docker & Application Deployment**
+- ⚙️ **Automation & Scripting**
+
+---
+
+## 🎯 Current Focus
+
+- 🔹 Improving my **Python & Backend Development** skills
+- 🔹 Building RESTful APIs with **Django REST Framework & FastAPI**
+- 🔹 Implementing secure authentication using **JWT**
+- 🔹 Working with **SQL & NoSQL databases**
+- 🔹 Developing **Cybersecurity & Networking projects**
+- 🔹 Improving **testing, debugging, and code quality**
+- 🔹 Learning better **API design, Docker, and deployment practices**
+
+---
+
+## 🚀 What I Like Building
+
+I enjoy turning real-world problems into practical software solutions:
+
+- 🔌 RESTful APIs
+- 🔐 Authentication & Authorization Systems
+- 🛡️ Cybersecurity & Network Security Tools
+- 🗄️ Database-Driven Applications
+- ⚙️ Automation & Scripting Tools
+- 🐳 Containerized Backend Applications
+- 🧪 API Testing & Developer Tools
+
+---
+
+## 📚 My Approach
+
+I don't just want to **use technologies** — I want to understand **how they work**.
+
+### My Development Cycle
+
+**Learn → Build → Test → Secure → Deploy → Improve**
+
+---
+  
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+Python • Backend • APIs 
+
+</div>
