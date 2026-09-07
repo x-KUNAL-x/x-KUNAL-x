@@ -101,6 +101,10 @@ I don't just want to **use technologies** — I want to understand **how they wo
 
 **Learn → Build → Test → Secure → Deploy → Improve**
 
+## 📄 Resume
+
+[View My Resume](https://github.com/x-KUNAL-x/x-KUNAL-x/blob/main/kunal.pdf)
+
 ---
   
 <div align="center">
