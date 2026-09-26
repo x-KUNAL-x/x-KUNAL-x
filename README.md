@@ -113,46 +113,6 @@ I believe great software is built through continuous learning, practical problem
 
 ---
 
-## 🔧 What I Work With
-
-- 🐍 **Python Development**
-- 🚀 **REST API Development**
-- ⚡ **Backend Application Development**
-- 🔐 **Authentication & API Security**
-- 🗄️ **SQL & NoSQL Databases**
-- 🧪 **API Testing & Documentation**
-- 🛡️ **Cybersecurity & Network Security**
-- 🐳 **Docker & Application Deployment**
-- ⚙️ **Automation & Scripting**
-
----
-
-## 🎯 Current Focus
-
-- 🔹 Improving my **Python & Backend Development** skills
-- 🔹 Building RESTful APIs with **Django REST Framework & FastAPI**
-- 🔹 Implementing secure authentication using **JWT**
-- 🔹 Working with **SQL & NoSQL databases**
-- 🔹 Developing **Cybersecurity & Networking projects**
-- 🔹 Improving **testing, debugging, and code quality**
-- 🔹 Learning better **API design, Docker, and deployment practices**
-
----
-
-## 🚀 What I Like Building
-
-I enjoy turning real-world problems into practical software solutions:
-
-- 🔌 RESTful APIs
-- 🔐 Authentication & Authorization Systems
-- 🛡️ Cybersecurity & Network Security Tools
-- 🗄️ Database-Driven Applications
-- ⚙️ Automation & Scripting Tools
-- 🐳 Containerized Backend Applications
-- 🧪 API Testing & Developer Tools
-
----
-
 ## 📚 My Approach
 
 I don't just want to **use technologies** — I want to understand **how they work**.
